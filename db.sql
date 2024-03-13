@@ -1,5 +1,5 @@
-CREATE DATABASE blog_IPa22;
-USE blog_IPa22;
+CREATE DATABASE blog_tomtoromtomtom;
+USE blog_tomtoromtomtom;
 
 
 CREATE TABLE posts (
